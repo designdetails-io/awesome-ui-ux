@@ -609,6 +609,7 @@ Words are part of the interface. These resources help you write better ones.
 - [Plain Language Action Network (PLAIN)](https://www.plainlanguage.gov/) — US federal resources for writing in plain language.
 - [UX Content Strategy Toolkit](https://www.uxcontent.com/) — A toolkit for content strategists and writers.
 - [Customer.io's UX Copy Library](https://customer.io/blog/ux-writing-examples/) — A library of UX copy examples.
+- [Content Design Report](https://contentdesignreport.com/) - Daily-updated data on the content design job market, covering pay, AI skills, and career moves.
 
 ## 🔌 Design-to-Code & Handoff
 
